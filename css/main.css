@@ -1,0 +1,16 @@
+.card {
+    display: inline-block;
+}
+
+.card_img {
+    width: 300px;
+}
+
+.card_title {
+    text-align: center;
+}
+
+.card_button {
+    position: relative;
+    left: 50%;
+}
